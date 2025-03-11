@@ -1,0 +1,9 @@
+1. Ensure you have Python 3.x installed. 
+2. Install the necessary libraries:
+       pip install qrcode Pillow
+3. Download the qrscanner.py file. 
+4. Run the script:
+      python qrscanner.py
+5. This will generate two QR code images: myqr.png and myqr1.png.
+
+
